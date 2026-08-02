@@ -1,6 +1,6 @@
 # Creative Portfolio
 
-A Next.js (App Router) creative portfolio template with scroll-driven animations, a showreel, testimonials, and a collaboration form.
+A Next.js (App Router) creative portfolio template with scroll-driven animations, a showreel, testimonials, and a collaboration form Its fully opensource and under MIT license So do whatever shit you want to do with it .
 
 ## Getting started
 
